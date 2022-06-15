@@ -25,3 +25,16 @@
 /Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.pdb
 /Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.genruntimeconfig.cache
 /Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/obj/Debug/net6.0/ref/HotelListing.API.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Expressions.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.PeriodicBatching.dll
+/Users/daniel/Desktop/pl/CSharpAPI/HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Seq.dll
