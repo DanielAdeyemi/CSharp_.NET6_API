@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{C2D6CA2C-3F5F-4B2E-8517-D707D192092F}|Default">
-  <MonoDevelop.Ide.ItemProperties.HotelListing.API FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelListing.API/appsettings.json">
+    <Files>
+      <File FileName="HotelListing.API/Program.cs" Line="25" Column="24" />
+      <File FileName="HotelListing.API/appsettings.json" Line="29" Column="1" />
+      <File FileName="HotelListing.API/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotelListing" expanded="True">
+            <Node name="HotelListing.API" expanded="True">
+              <Node name="logs" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HotelListing.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
 </Properties>
